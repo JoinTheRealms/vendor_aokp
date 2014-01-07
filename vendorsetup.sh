@@ -11,7 +11,6 @@ add_lunch_combo aokp_d2vzw-userdebug
 add_lunch_combo aokp_d800-userdebug
 add_lunch_combo aokp_d801-userdebug
 add_lunch_combo aokp_d802-userdebug
-add_lunch_combo aokp_dogo-userdebug
 add_lunch_combo aokp_i605-userdebug
 add_lunch_combo aokp_i9300-userdebug
 add_lunch_combo aokp_jfltecri-userdebug
@@ -36,3 +35,4 @@ add_lunch_combo aokp_t0ltetmo-userdebug
 add_lunch_combo aokp_tsubasa-userdebug
 add_lunch_combo aokp_vs980-userdebug
 add_lunch_combo aokp_yuga-userdebug
+add_lunch_combo aokp_p880-userdebug
